@@ -1,6 +1,6 @@
 #Ideally we would provide subscription ID per environment that would require three separate folder spaces 
 provider "azurerm" {
-    subscription_id = "f2140256-dc09-4ffe-8406-431637bb544d"
+    subscription_id = " "
   features {}
 }
 
